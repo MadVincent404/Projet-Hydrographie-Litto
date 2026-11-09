@@ -1,0 +1,26 @@
+{
+  "train": [],
+  "val": [],
+  "test": [
+    {
+      "tile_id": "0087_6834",
+      "mnt_path": "data/mnt5m/0087_6834.asc"
+    },
+    {
+      "tile_id": "0088_6832",
+      "mnt_path": "data/mnt5m/0088_6832.asc"
+    },
+    {
+      "tile_id": "0108_6838",
+      "mnt_path": "data/mnt5m/0108_6838.asc"
+    },
+    {
+      "tile_id": "0087_6832",
+      "mnt_path": "data/mnt5m/0087_6832.asc"
+    },
+    {
+      "tile_id": "0089_6838",
+      "mnt_path": "data/mnt5m/0089_6838.asc"
+    }
+  ]
+}

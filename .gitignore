@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/secrets.toml
+*.pt
+*.pth
+*.joblib
+*.7z
+*.xyz
+*.tif
+*.tiff
+.DS_Store

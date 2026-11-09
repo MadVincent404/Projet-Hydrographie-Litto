@@ -1,0 +1,7 @@
+{
+  "test_tiles_evaluated": 20,
+  "test_injected_points": 4000,
+  "nominal_alert_fraction": 0.01,
+  "raw_display_tiles": [],
+  "note": "Synthetic injection benchmark; unaltered real soundings are not ground-truth clean."
+}
