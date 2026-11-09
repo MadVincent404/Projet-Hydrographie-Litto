@@ -1,4 +1,4 @@
-# HydroQC AI — démonstration Streamlit
+# HydroQC AI: démonstration Streamlit
 
 Visualisation de résultats **pré-calculés** : plan robuste, Isolation Forest, LOF et PointNet 3D.
 Aucun entraînement ni modèle PyTorch n'est exécuté par l'application.
